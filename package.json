@@ -20,7 +20,6 @@
     "@mui/icons-material": "^5.16.1",
     "@mui/lab": "^5.0.0-alpha.170",
     "@mui/material": "^5.16.1",
-    "@ptvgroup/deployment-detector": "^2.5.1",
     "@turf/bbox": "^7.0.0",
     "@turf/boolean-point-in-polygon": "^7.0.0",
     "@turf/boolean-point-on-line": "^7.0.0",
